@@ -1,0 +1,44 @@
+[
+    {   
+        "id": 1,
+        "firstname": "Isaac",
+        "lastname": "Waweru",
+        "email": "waweruisaac25@gmail.com",
+        "contact": "0706237711"
+    },
+    {
+        "id": 2,
+        "firstname": "Ken",
+        "lastname": "Otieno",
+        "email": "otieno@gmail.com",
+        "contact": "0709237711"
+    },
+   {
+        "id": 3,
+        "firstname": "King",
+        "lastname": "Kaka",
+        "email": "kaka@gmail.com",
+        "contact": "0703237711"
+    },
+    {
+        "id": 4,
+        "firstname": "Jane",
+        "lastname": "Kiota",
+        "email": "jane@gmail.com",
+        "contact": "0709237711"
+    },
+    {
+        "id": 5,
+        "firstname": "Miriam",
+        "lastname": "Doe",
+        "email": "mariam@gmail.com",
+        "contact": "0708237711"
+    },
+    {
+        "id": 6,
+        "firstname": "Kelvin",
+        "lastname": "Fisi",
+        "email": "kevin@gmail.com",
+        "contact": "0705237711"
+    }
+]
